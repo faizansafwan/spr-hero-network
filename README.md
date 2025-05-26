@@ -4,6 +4,11 @@ Welcome! This project is part of a take-home coding challenge where you will des
 
 ---
 
+<img width="426" alt="Screenshot 2025-05-26 at 21 17 15" src="https://github.com/user-attachments/assets/710e270f-2b58-4a66-a1f7-811e5f5b5a86" />
+
+
+- 
+
 ## 📘 Project Story
 
 You are the designer of a **superhero universe**.
@@ -68,13 +73,12 @@ Optional (Bonus):
 
 - Python, Java, or JavaScript/TypeScript
 - You can use **ChatGPT, GitHub Copilot, or any AI tools**
-- You can use any libraries (like `pandas`, `networkx`, etc.)
 
 ---
 
 ## 🚀 Submission Rules (Important!)
 
-- ✅ **Submit via GitHub only** – Zip files or email submissions will be rejected  
+- ✅ **Submit via GitHub only** – Zip files or email submissions will be rejected  ( you can send git repo url via email :) ) 
 - 🕒 You have **2 days** to complete the task  
 - ⏱ You will have a **45-minute video interview**
   - You must run your code live
@@ -90,5 +94,8 @@ Optional (Bonus):
   - Sample output
   - Tools or libraries you used
   - Any extra info you want to share
+ 
+----------
+## Happy Coding <3 <3 {}
 
 
