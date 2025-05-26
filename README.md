@@ -96,6 +96,8 @@ Optional (Bonus):
   - Any extra info you want to share
  
 ----------
-## Happy Coding <3 <3 {}
+
+#  ❤️  ❤️  ❤️ Happy Coding ❤️  ❤️  ❤️
+<img width="426" alt="Screenshot 2025-05-26 at 21 17 15" src="https://media.npr.org/assets/img/2016/06/09/john-p-fleenor-courtesy-of-hbo_wide-f730538a10afad26c9de9a42561772522e4e87e6.jpg?s=1400&c=100&f=jpeg">
 
 
