@@ -25,6 +25,23 @@ You will use two CSV files:
 - `links.csv`: Connections between superheroes (who is friends with whom)
 
 ---
+## 🧰 Preparation
+
+Before you start, please follow these steps carefully:
+
+1. **Fork or Download the Starter Repo**  
+   - You can **fork** this GitHub repository to your own account  
+   - Or you can **download the files** to your local computer
+
+2. **Make Sure Your Repo is Public**  
+   - Your project **must be on a public GitHub repo**
+   - If your repo is private, we **cannot review your code**
+   - Private repos will be **de-prioritized**, and you may have to **wait longer** for your interview
+
+3. **If Forking is Confusing**  
+   - You can **create a brand-new public GitHub repo** in your account
+   - Just **download the CSV files** from this repo and **continue working from your own**
+-------
 
 ## ✅ Requirements
 
