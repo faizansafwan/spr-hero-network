@@ -39,7 +39,7 @@ This project is part of the **Dataiskole Internship Take-Home Assignment**, wher
 ##  Screenshots
 
 <p align="center">
-  <img src="assets/connections.png" alt="Superhero Network Graph" width="500"/>
+  <img src="assets/connections.png" alt="Superhero Network Graph" width="400"/>
 </p>
 
 ---
